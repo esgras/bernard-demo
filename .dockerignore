@@ -1,0 +1,10 @@
+/.idea*
+/.git
+.dockerignore
+
+/var/mysql-data
+/var/log
+/vendor/
+
+Dockerfile
+docker-compose.yml
